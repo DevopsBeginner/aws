@@ -1,5 +1,6 @@
 
 for linux_ami 2023
+No need to Install epel
 -----------------------------
 
 yum install stress
