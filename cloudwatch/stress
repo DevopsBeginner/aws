@@ -1,8 +1,6 @@
 
-for linux_ami
+for linux_ami 2023
 -----------------------------
-
-amazon-extras  install epel -y
 
 yum install stress
 
